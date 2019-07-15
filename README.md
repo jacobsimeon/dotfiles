@@ -1,7 +1,7 @@
 Jacob's dotfiles
 ===================
 
-(Heavily influenced, but pared down from [thoughtbot's dotfiles][tb-dotfiles]
+Heavily influenced, but pared down from [thoughtbot's dotfiles][tb-dotfiles]
 
 Requirements
 ------------
