@@ -1,0 +1,15 @@
+[color]
+  ui = auto
+[alias]
+  ci = commit -v
+  co = checkout
+  st = status
+[core]
+  excludesfile = ~/.gitignore
+  autocrlf = input
+[merge]
+  ff = only
+[fetch]
+  prune = true
+[rebase]
+  autosquash = true
