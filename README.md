@@ -43,3 +43,5 @@ From time to time you should pull down any updates to these dotfiles, and run
 to link any new files and install new vim plugins. **Note** You _must_ run
 `rcup` after pulling to ensure that all files in plugins are properly installed,
 but you can safely run `rcup` multiple times so update early and update often!
+
+[tb-dotfiles]: https://github.com/thoughtbot/dotfiles
