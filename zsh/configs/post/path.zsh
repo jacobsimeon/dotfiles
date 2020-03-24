@@ -1,5 +1,3 @@
-set -e
-
 # Add custom bin
 PATH="$HOME/.bin:$PATH"
 
