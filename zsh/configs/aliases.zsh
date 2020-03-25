@@ -1,5 +1,1 @@
 alias ll="ls -al"
-alias b="bundle"
-alias cart="carthage"
-alias fast="bundle exec fastlane"
-alias u="bin/update-api-keys-staging"

@@ -1,3 +1,3 @@
 # Use vim as editor
-export VISUAL=/usr/local/bin/vim
+export VISUAL=/opt/brew/bin/vim
 export EDITOR=$VISUAL
