@@ -4,6 +4,12 @@
   ci = commit -v
   co = checkout
   st = status
+  sup = submodule update --init --recursive
+  poh = push origin head
+  poof = push origin head -f
+  kick = commit --amend --no-edit --allow-empty
+  cane = commit --amend --no-edit
+  pr = pull --rebase
 [core]
   excludesfile = ~/.gitignore
   autocrlf = input
