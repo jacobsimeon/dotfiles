@@ -10,6 +10,7 @@
   kick = commit --amend --no-edit --allow-empty
   cane = commit --amend --no-edit
   pr = pull --rebase
+  unstage = restore --staged
 [core]
   excludesfile = ~/.gitignore
   autocrlf = input

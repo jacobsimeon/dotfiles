@@ -115,6 +115,7 @@ Plug 'vim-ruby/vim-ruby'
 Plug 'vim-scripts/tComment'
 Plug 'scrooloose/NerdTree'
 Plug 'altercation/vim-colors-solarized'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 " use solarized color scheme
