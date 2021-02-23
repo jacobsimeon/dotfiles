@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git apply ~/.dotfiles/patches/baseline.patch --reverse
